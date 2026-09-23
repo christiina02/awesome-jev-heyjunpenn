@@ -506,7 +506,7 @@ This README is a dated snapshot of **640 unique public GitHub repositories**. St
 | [github-star-organizer-jev](https://github.com/yutkat/github-star-organizer-jev) | ★ 0 | Python | 2026-09-20 | Uses Jev to classify and organize GitHub stars. |
 | [jev-the-janitor](https://github.com/kylehovance-ai/jev-the-janitor) | ★ 0 | Python | 2026-09-22 | A janitor for markdown vaults powered by TypeSafe Jev: Jev votes on each note, your code files it, you review the low-confidence pile. |
 | [discoprint](https://github.com/lirantal/discoprint) | ★ 0 | JavaScript | 2026-09-22 | Classify an artist's discography by theme, mood, and lyrical complexity with Jev (TypeSafe AI), and view it as a colorful terminal dashboard |
-| [Refix](https://refix.ai/?utm_source=awesome-jev&utm_medium=github&utm_campaign=heyjunpenn) | ★ 0 | — | 2026-09-23 | Growth: AI that helps your product grow faster on autopilot by running product experiments, SEO, content, and ads. |
+| [Refix](https://refix.ai) | ★ 0 | — | 2026-09-23 | Growth: AI that helps your product grow faster on autopilot by running product experiments, SEO, content, and ads. |
 
 ### Games & simulations (56)
 
